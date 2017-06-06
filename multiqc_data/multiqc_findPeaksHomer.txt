@@ -1,4 +1,0 @@
-Sample	total_peaks	ip_efficiency	expected_tags
-A01	27711	28.05	1.383
-A02	34784	45.10	1.258
-A03	33332	37.51	1.506

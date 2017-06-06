@@ -1,4 +1,0 @@
-Module	Section	Sample Name	Source
-findPeaksHomer	all_sections	A02	/nethome/liucc/MultiqcData/A02.peaks1kb.txt
-findPeaksHomer	all_sections	A03	/nethome/liucc/MultiqcData/A03.peaks1kb.txt
-findPeaksHomer	all_sections	A01	/nethome/liucc/MultiqcData/A01.peaks1kb.txt
