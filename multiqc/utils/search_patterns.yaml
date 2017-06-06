@@ -49,6 +49,9 @@ fastqc/theoretical_gc:
     fn: '*fastqc_theoretical_gc*'
 featurecounts:
     fn: '*.summary'
+findPeaksHomer:
+    contents: '# HOMER Peaks'
+    num_lines: 1
 gatk/varianteval:
     contents: '#:GATKReport'
     shared: true

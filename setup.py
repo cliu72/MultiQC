@@ -73,6 +73,7 @@ setup(
             'fastq_screen = multiqc.modules.fastq_screen:MultiqcModule',
             'fastqc = multiqc.modules.fastqc:MultiqcModule',
             'featureCounts = multiqc.modules.featureCounts:MultiqcModule',
+            'findPeaksHomer = multiqc.modules.findPeaksHomer:MultiqcModule',
             'hicup = multiqc.modules.hicup:MultiqcModule',
             'htseq = multiqc.modules.htseq:MultiqcModule',
             'kallisto = multiqc.modules.kallisto:MultiqcModule',

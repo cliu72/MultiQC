@@ -1,0 +1,24 @@
+[2017-06-06 14:51:17,184] multiqc                                            [DEBUG  ]  No MultiQC config found: /nethome/liucc/.conda/envs/py2.7/lib/python2.7/site-packages/multiqc-1.1.dev0-py2.7.egg/multiqc_config.yaml
+[2017-06-06 14:51:17,184] multiqc                                            [DEBUG  ]  No MultiQC config found: /nethome/liucc/.multiqc_config.yaml
+[2017-06-06 14:51:17,184] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2017-06-06 14:51:17,184] multiqc                                            [DEBUG  ]  Command used: /nethome/liucc/.conda/envs/py2.7/bin/multiqc -f -m findPeaksHomer /nethome/liucc/MultiqcData/
+[2017-06-06 14:51:17,185] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check
+[2017-06-06 14:51:17,185] multiqc                                            [INFO   ]  This is MultiQC v1.1.dev0
+[2017-06-06 14:51:17,185] multiqc                                            [DEBUG  ]  Command     : /nethome/liucc/.conda/envs/py2.7/bin/multiqc -f -m findPeaksHomer /nethome/liucc/MultiqcData/
+[2017-06-06 14:51:17,185] multiqc                                            [DEBUG  ]  Working dir : /nethome/liucc/MultiQC
+[2017-06-06 14:51:17,185] multiqc                                            [INFO   ]  Template    : default
+[2017-06-06 14:51:17,185] multiqc                                            [DEBUG  ]  Running in --force mode, will overwrite any existing reports.
+[2017-06-06 14:51:17,185] multiqc                                            [INFO   ]  Searching '/nethome/liucc/MultiqcData/'
+[2017-06-06 14:51:17,186] multiqc                                            [INFO   ]  Only using modules findPeaksHomer
+[2017-06-06 14:51:17,186] multiqc                                            [DEBUG  ]  Analysing modules: findPeaksHomer
+[2017-06-06 14:51:17,186] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpWd9rn7
+[2017-06-06 14:51:17,712] multiqc.modules.findPeaksHomer.findPeaksHomer      [INFO   ]  Found 3 reports
+[2017-06-06 14:51:17,723] multiqc                                            [INFO   ]  Compressing plot data
+[2017-06-06 14:51:17,723] multiqc                                            [WARNING]  Deleting    : multiqc_report.html   (-f was specified)
+[2017-06-06 14:51:17,724] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2017-06-06 14:51:17,725] multiqc                                            [WARNING]  Deleting    : multiqc_data   (-f was specified)
+[2017-06-06 14:51:17,728] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2017-06-06 14:51:17,729] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpWd9rn7/multiqc_data/multiqc_sources.txt' to '/nethome/liucc/MultiQC/multiqc_data'
+[2017-06-06 14:51:17,730] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpWd9rn7/multiqc_data/multiqc_general_stats.txt' to '/nethome/liucc/MultiQC/multiqc_data'
+[2017-06-06 14:51:17,731] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpWd9rn7/multiqc_data/multiqc_findPeaksHomer.txt' to '/nethome/liucc/MultiQC/multiqc_data'
+[2017-06-06 14:51:17,895] multiqc                                            [INFO   ]  MultiQC complete

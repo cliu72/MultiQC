@@ -30,6 +30,7 @@ MultiQC Modules:
     Bcftools: modules/bcftools.md
     BUSCO: modules/busco.md
     featureCounts: modules/featureCounts.md
+    findPeaksHomer: modules/findPeaksHomer.md
     GATK: modules/gatk.md
     goleft_indexcov: modules/goleft_indexcov.md
     HTSeq: modules/htseq.md

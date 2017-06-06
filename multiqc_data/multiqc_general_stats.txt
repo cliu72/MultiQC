@@ -1,0 +1,4 @@
+Sample	findPeaksHomer_total_peaks	findPeaksHomer_expected_tags	findPeaksHomer_ip_efficiency
+A01	27711	1.383	28.05
+A02	34784	1.258	45.10
+A03	33332	1.506	37.51
